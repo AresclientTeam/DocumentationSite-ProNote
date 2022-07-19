@@ -1,4 +1,4 @@
-# Selbsthilfecenter-ProNote
+# DocumentationSite-ProNote
 
 Docs Userinterface for a notice app (Modified template)
 
