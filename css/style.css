@@ -37,7 +37,7 @@ h6 {
     font-weight: normal;
     position: relative;
     padding: 0 0 10px 0;
-    font-weight: normal;
+    font-weight: norma;
     line-height: 1.8;
     color: #000000;
 }
@@ -150,6 +150,7 @@ a {
     text-decoration: none !important;
 }
 
+
 ins {
     text-decoration: none;
 }
@@ -189,9 +190,10 @@ p {
 }
 
 .section {
-    padding: 30px 0;
+    padding: 20px 0;
     position: relative;
     display: block;
+
     
 }
 
@@ -349,6 +351,23 @@ a:hover {
     border: 1px solid #2187BB;
 }
 
+.btn-primary2 {
+    
+    background-color: #f21515;
+    border: 1.5px solid #821919;
+    color:white;
+}
+
+.btn-primary2:hover {
+    background-color: #f21515;
+    border: 1.5px solid #a43434;
+    box-shadow: -1px 3px 6px 2px #8080804f;
+    text-shadow: 0px 0px 4px #eaeaea;
+    color:white;
+    filter: drop-shadow(0px 0px 4px hsl(0, 100%, 50%));
+}
+
+
 .btn-primary:hover {
     background-color: #2187BB;
     border: 1px solid #0E97EE;
@@ -410,3 +429,10 @@ a:hover {
 #myBtn:hover {
   background-color: #404040;
 }
+
+img {
+    width: 800px;
+    -webkit-box-shadow: 0px 0px 11px 3px #363636; 
+    box-shadow: 0px 0px 11px 3px #363636;
+    object-fit: scale-down;
+} 

@@ -21,7 +21,7 @@ html.dark hr {
 hr {
     border-color: rgb(107, 107, 107);
     border-width: 2.5px;
-    box-shadow: -1px 3px 6px 2px rgba(68, 68, 68, 0.208);
+    box-shadow: -1px 3px 6px 2px rgba(58, 58, 58, 0.389);
 }
 
 html.dark .docs-sidebar .nav>li>a {
@@ -319,4 +319,27 @@ html #mode .dark {
 
 .syntaxhighlighter .js.keyword {
     color: #b48ead !important;
+}
+
+.btn-primary2 {
+    
+    background-color: #f21515;
+    border: 1.5px solid #821919;
+    color:white;
+}
+
+.btn-primary2:hover {
+    background-color: #f21515;
+    border: 1.5px solid #a43434;
+    box-shadow: -1px 3px 6px 2px #8080804f;
+    text-shadow: 0px 0px 4px #eaeaea;
+    color:white;
+    filter: drop-shadow(0px 0px 4px hsl(0, 100%, 50%));
+}
+
+html.dark img {
+
+    -webkit-box-shadow: 0px 0px 11px 3px #e6e6e6a6;
+    box-shadow: 0px 0px 11px 3px #e6e6e6a6;
+
 }
