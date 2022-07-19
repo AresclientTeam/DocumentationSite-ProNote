@@ -2,7 +2,7 @@
 
 Docs Userinterface for a notice app (Modified template)
 
-IMPORTANT: Ignore the config_.yml its only for the demosite from github and not necessary for the sourcecode
+IMPORTANT: Ignore the config_.yml / docs folder, its only for the demosite from github and not necessary for the sourcecode
 
 ![git1](https://user-images.githubusercontent.com/80708285/179794220-ae4041c0-2150-4bbf-9ee9-81e25880651c.png)
 
